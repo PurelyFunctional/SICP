@@ -1,0 +1,1 @@
+new-if is a procedure whereas the built-in if-expression is a special form. Alyssa's sqrt-iter procedure descends into infinite recursion.
